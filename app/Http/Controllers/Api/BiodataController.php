@@ -10,7 +10,7 @@ class BiodataController extends Controller
 {
     public function generateData()
     {
-        //
+        
     }
 
     public function index()
